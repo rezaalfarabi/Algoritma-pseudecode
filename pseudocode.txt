@@ -1,0 +1,55 @@
+
+Mengubah Kasus Menjadi Pseudocode
+
+TUGAS 1
+	kasus :
+	Buatlah sebuah pseudocode yang mengambil dua angka, 
+	dan menghitung serta menampilkan hasil perkalian dari kedua bilangan tersebut.
+	hint: Gunakan kata kunci SIMPAN, HITUNG, dan TULISKAN.
+
+	Pseudocode:
+
+	BACA dan SIMPAN "angka pertama"
+
+	BACA dan SIMPAN "angka kedua"
+
+	HITUNG "angka pertama" dikali "angka kedua"
+
+	SIMPAN hasil hitungan sebelumnya
+
+	TULISKAN hasil hitungan
+
+
+TUGAS 2
+	kasus :
+	Buatlah sebuah pseudocode yang mengambil sebuah kata, 
+	dan jika kata yang diambil bertuliskan "Saya Belajar JavaScript!", tampilkan "Pasti Bisa!"
+	hint: Gunakan kata kunci SIMPAN, IF, dan TULISKAN.
+
+	Pseudocode:
+
+	BACA dan SIMPAN "kata A"
+
+	IF "kata A" sama dengan "Saya Belajar JavaScript!"
+
+	TULISKAN "Pasti Bisa!"
+
+	
+TUGAS 3
+	kasus :
+	Buatlah sebuah pseudocode yang mengambil sebuah angka. 
+	Tampilkan sebuah deret angka yang habis dibagi 3 dan dimulai dari angka 1. 
+	Deret angka akan berhenti sampai deret angka tersebut mencapai angka yang disimpan sebelumnya.
+	hint: Gunakan kata kunci SIMPAN, ULANGI, dan TAMPILKAN.
+
+	Pseudocode:
+
+	BACA dan SIMPAN "angka B"
+
+	SIMPAN "angka B" dengan nilai 0
+
+	HITUNG "hasil tambah" dari "angka B" ditambah 1
+
+	TAMPILKAN "hasil perkalian" dari "hasil tambah" dikali 3
+
+	ULANGI sampai "hasil perkalian" lebih kecil dari "angka B"
